@@ -1,0 +1,18 @@
+{
+  "name": "noip-auto-renewal",
+  "version": "1.0.0",
+  "description": "A script to renew automatically the No-IP Dynamic DNS for free plans, which need to be renewed each 30 days.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node client.js"
+  },
+  "author": "Hugo Haldi",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-html-parser": "^1.1.18",
+    "request": "^2.88.0"
+  }
+}

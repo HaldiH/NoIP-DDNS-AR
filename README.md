@@ -1,2 +1,3 @@
 # NoIP-DDNS-AR
-A Nodejs script to autaomatically renew dynamic No-IP dynamics DNS for free accounts.
+
+A Nodejs script to automatically renew No-IP dynamics DNS for free accounts.
